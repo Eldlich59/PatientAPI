@@ -1,0 +1,28 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Nguyễn Văn An",
+      "age": 45,
+      "gender": "Nam",
+      "medicalCondition": "Cao huyết áp",
+      "contactNumber": "0987654321"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị Bích",
+      "age": 35,
+      "gender": "Nữ", 
+      "medicalCondition": "Đái tháo đường",
+      "contactNumber": "0912345678"
+    },
+    {
+      "id": 3,
+      "name": "Lê Văn Cường",
+      "age": 55,
+      "gender": "Nam",
+      "medicalCondition": "Hen suyễn",
+      "contactNumber": "0976543210"
+    }
+  ]
+}
